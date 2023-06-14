@@ -1,5 +1,5 @@
 ## IIWA STACK
-ROS Indigo/Kinetic metapackage for the KUKA LBR IIWA R800/R820 (7/14 Kg).
+ROS Indigo/Kinetic metapackage for the KUKA LBR IIWA R800/R820 (7/14 Kg). Modified to work with two KUKA arms.
 
 **Current version : v-1.3.0 for Sunrise 1.10 - 1.16**    
 [Using a previous version of Sunrise?](https://github.com/SalvoVirga/iiwa_stack/wiki/FAQ#which-version-of-sunriseossunrise-workbench-is-supported)    
